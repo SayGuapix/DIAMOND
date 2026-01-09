@@ -1,0 +1,25 @@
+C:\Users\FREDY\Documents\SharpDevelop Projects\Diamond\Diamond\bin\Debug\Diamond.exe
+C:\Users\FREDY\Documents\SharpDevelop Projects\Diamond\Diamond\bin\Debug\Diamond.pdb
+C:\Users\FREDY\Documents\SharpDevelop Projects\Diamond\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+C:\Users\FREDY\Documents\SharpDevelop Projects\Diamond\Diamond\obj\Debug\Diamond.exe
+C:\Users\FREDY\Documents\SharpDevelop Projects\Diamond\Diamond\obj\Debug\Diamond.pdb
+C:\Users\FREDY\Desktop\say\PROYECTOS\Diamond\DIAMOND\bin\Debug\DIAMOND.exe
+C:\Users\FREDY\Desktop\say\PROYECTOS\Diamond\DIAMOND\bin\Debug\DIAMOND.pdb
+C:\Users\FREDY\Desktop\say\PROYECTOS\Diamond\DIAMOND\obj\Debug\DIAMOND.exe
+C:\Users\FREDY\Desktop\say\PROYECTOS\Diamond\DIAMOND\obj\Debug\DIAMOND.pdb
+C:\Users\FREDY\Desktop\say\PROYECTOS\Diamond\DIAMOND\bin\Debug\DIAMOND.exe.config
+C:\Users\FREDY\Desktop\say\PROYECTOS\Diamond\DIAMOND\obj\Debug\DIAMOND.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\say\PROYECTOS\Diamond\DIAMOND\obj\Debug\DIAMOND.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SANTY\PROYECTS\Diamond OLD\DIAMOND\bin\Debug\DIAMOND.exe.config
+C:\Users\FREDY\Desktop\SANTY\PROYECTS\Diamond OLD\DIAMOND\bin\Debug\DIAMOND.exe
+C:\Users\FREDY\Desktop\SANTY\PROYECTS\Diamond OLD\DIAMOND\bin\Debug\DIAMOND.pdb
+C:\Users\FREDY\Desktop\SANTY\PROYECTS\Diamond OLD\DIAMOND\obj\Debug\DIAMOND.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SANTY\PROYECTS\Diamond OLD\DIAMOND\obj\Debug\DIAMOND.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SANTY\PROYECTS\Diamond OLD\DIAMOND\obj\Debug\DIAMOND.exe
+C:\Users\FREDY\Desktop\SANTY\PROYECTS\Diamond OLD\DIAMOND\obj\Debug\DIAMOND.pdb
+C:\Users\FREDY\Desktop\SAY\PROJECTS\Diamond OLD\DIAMOND\bin\Debug\DIAMOND.exe.config
+C:\Users\FREDY\Desktop\SAY\PROJECTS\Diamond OLD\DIAMOND\bin\Debug\DIAMOND.exe
+C:\Users\FREDY\Desktop\SAY\PROJECTS\Diamond OLD\DIAMOND\obj\Debug\DIAMOND.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SAY\PROJECTS\Diamond OLD\DIAMOND\obj\Debug\DIAMOND.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SAY\PROJECTS\Diamond OLD\DIAMOND\obj\Debug\DIAMOND.exe
+C:\Users\FREDY\Desktop\SAY\PROJECTS\Diamond OLD\DIAMOND\obj\Debug\DIAMOND.pdb
